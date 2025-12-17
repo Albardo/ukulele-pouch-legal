@@ -11,7 +11,7 @@ title: Privacy Policy – Ukulele Pouch
 
 ## 🇨🇿 Zásady ochrany soukromí (Czech)
 
-Aplikace **Ukulele Pouch** respektuje soukromí uživatelů a chrání jejich osobní údaje.  
+Aplikace **Ukulele Pouch** respektuje soukromí uživatelů a klade důraz na ochranu osobních údajů.  
 Aplikace **nesbírá, neukládá ani neodesílá žádná osobní data na externí servery**.
 
 ### Jaká data aplikace používá
@@ -32,14 +32,14 @@ Aplikace může vyžadovat přístup k mikrofonu **výhradně za účelem funkce
 - **žádný zvukový záznam není ukládán ani odesílán**
 - mikrofon není používán na pozadí mimo aktivní obrazovku ladičky
 
-### Sdílení dat
+### Sdílení dat a služby třetích stran
 
 Aplikace:
 
 - **nesdílí žádná data s třetími stranami**
-- **nepoužívá analytické služby**
+- **nepoužívá žádné analytické, reklamní ani sledovací služby třetích stran**
 - **neobsahuje reklamy**
-- **nepoužívá sledovací technologie ani profilování uživatelů**
+- **neprovádí profilování uživatelů**
 
 ### Zálohy a export dat
 
@@ -55,6 +55,10 @@ Veškerá data lze:
 - odstranit přímo v aplikaci
 - kompletně smazat odinstalováním aplikace ze zařízení
 
+### Práva uživatelů (GDPR)
+
+Vzhledem k tomu, že aplikace **neshromažďuje ani neuchovává žádné osobní údaje**, neexistují žádné informace, ke kterým by bylo možné uplatnit práva na přístup, opravu, přenositelnost nebo výmaz podle GDPR.
+
 ### Děti a ochrana soukromí
 
 Aplikace **Ukulele Pouch může být používána i dětmi mladšími 13 let**.
@@ -67,11 +71,16 @@ Aplikace:
 
 Díky tomu nepředstavuje riziko z hlediska ochrany soukromí dětí.
 
+### Změny těchto zásad
+
+Tyto zásady ochrany soukromí mohou být v budoucnu aktualizovány.  
+Veškeré změny budou zveřejněny aktualizací této stránky.
+
 ### Kontakt
 
 V případě dotazů ohledně ochrany soukromí nás můžete kontaktovat:
 
-📧 **ukulele.pouch@gmail.com**
+📧 **[DOPLŇ EMAIL]**
 
 ---
 
@@ -98,14 +107,14 @@ The app may request access to the microphone **solely for the tuner feature**.
 - **no audio is recorded, stored, or transmitted**
 - the microphone is not used in the background
 
-### Data sharing
+### Data sharing and third-party services
 
 The app:
 
 - **does not share data with third parties**
-- **does not use analytics services**
-- **does not display advertisements**
-- **does not use tracking or profiling technologies**
+- **does not use any third-party analytics, advertising, or tracking services**
+- **contains no advertisements**
+- **does not perform user profiling**
 
 ### Backup and export
 
@@ -121,6 +130,10 @@ All data can be removed:
 - directly within the app
 - completely by uninstalling the app
 
+### User rights (GDPR)
+
+As the app **does not collect or store any personal data**, there is no information available for access, correction, portability, or deletion under GDPR.
+
 ### Children’s privacy
 
 The **Ukulele Pouch** app **may be used by children under the age of 13**.
@@ -133,8 +146,13 @@ The app:
 
 Therefore, it does not pose privacy risks for children.
 
+### Changes to this policy
+
+This privacy policy may be updated from time to time.  
+Any changes will be published by updating this page.
+
 ### Contact
 
 If you have any questions regarding privacy, please contact:
 
-📧 **ukulele.pouch@gmail.com**
+📧 **[ADD EMAIL]**
