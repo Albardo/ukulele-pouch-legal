@@ -5,6 +5,7 @@ title: Privacy Policy – Ukulele Pouch
 # Zásady ochrany soukromí  
 ## Privacy Policy
 
+**Vyvíjí / Developed by: Raldes**
 **Poslední aktualizace / Last updated:** 2025-12-17
 
 ---
