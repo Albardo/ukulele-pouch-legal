@@ -80,7 +80,7 @@ Veškeré změny budou zveřejněny aktualizací této stránky.
 
 V případě dotazů ohledně ochrany soukromí nás můžete kontaktovat:
 
-📧 **[DOPLŇ EMAIL]**
+📧 **ukulele.pouch@gmail.com**
 
 ---
 
@@ -155,4 +155,4 @@ Any changes will be published by updating this page.
 
 If you have any questions regarding privacy, please contact:
 
-📧 **[ADD EMAIL]**
+📧 **ukulele.pouch@gmail.com**
